@@ -15,6 +15,6 @@
 ---
 
 ## 👥 ارتباط با گردآورنده
-* **نویسنده:** علیرضا نصوحیان[span_0](start_span)[span_0](end_span)
-* **ایمیل:** alirezanosouhian@gmail.com[span_1](start_span)[span_1](end_span)
-* **گیت‌هاب:** [alirezafarsi12](https://github.com/alirezafarsi12)[span_2](start_span)[span_2](end_span)
+* **نویسنده:** علیرضا نصوحیان
+* **ایمیل:** alirezanosouhian@gmail.com
+* **گیت‌هاب:** [alirezafarsi12](https://github.com/alirezafarsi12
